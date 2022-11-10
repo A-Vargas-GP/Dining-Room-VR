@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: f4aa0531451da4298bce7c77ba4a819e
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candleAIS
+    second: {fileID: 2100000, guid: 13f4bf39db5c9497895b2882ea427eb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candleBottomAIS
+    second: {fileID: 2100000, guid: 2fc5a99ce807444ed9dd2721bbee45f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceilingAIS
+    second: {fileID: 2100000, guid: df39230cb28ce48e9a4f79f6fb4ae8a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chairCushionAIS
+    second: {fileID: 2100000, guid: 094479f0f691449ee85269ed2ff607e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chairLegsAIS
+    second: {fileID: 2100000, guid: e31d620d216db496bb02d952e7a74b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coloredPorcelainAIS
+    second: {fileID: 2100000, guid: 01462851e276d4f82a211770f676f866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drinkingCupAIS
+    second: {fileID: 2100000, guid: 2ece37472058445098e12a3260e93371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eggCupAIS
+    second: {fileID: 2100000, guid: 9aa0cab333e754c92985df0a5b2a7aec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fireplaceInsideAIS
+    second: {fileID: 2100000, guid: 716d4cbc64f0f4cc181c97a952ce32c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fireplaceMantle2AIS
+    second: {fileID: 2100000, guid: 1eef9415d3273487b9cc75349a6255dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorAIS
+    second: {fileID: 2100000, guid: 586c2a8666b3b4dd9aaae54ea8837a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorMouldingAIS
+    second: {fileID: 2100000, guid: 5d573999da9fb46bcb17d3f49a701ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 085168333b6ac4e13938b0c67976434d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightCoverAIS
+    second: {fileID: 2100000, guid: 7bed1df2f459f42769b6562e4284d61b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightbulbAIS
+    second: {fileID: 2100000, guid: 8fb06872078ed4a3c8c07fc4bf0504c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pepperAIS
+    second: {fileID: 2100000, guid: e90802b67477a4ad78cffaa31a3b6355, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pictureFrameAIS
+    second: {fileID: 2100000, guid: 7682b154ff35c4d7ca40ce220a59ab0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plateAIS
+    second: {fileID: 2100000, guid: a6a7fc9cea6994b2eb9c38bc178b189f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plateAIS1
+    second: {fileID: 2100000, guid: 51907db9ac56e42c98c5701c40fce4e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcelainAIS
+    second: {fileID: 2100000, guid: 45024fdd654b24a368bdc5c87dcf0cf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcelainDishAIS
+    second: {fileID: 2100000, guid: 855a62c2caa04442a86008419c9c63e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: saltBottomAIS
+    second: {fileID: 2100000, guid: 1a664aa6f53434ef893e76806e9e42dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: saltTopAIS
+    second: {fileID: 2100000, guid: b0933279b55354bd6bb6ee77a5c5edd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tableAIS
+    second: {fileID: 2100000, guid: 5c79efdcf603e4469904797248863310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teaStandTableAIS
+    second: {fileID: 2100000, guid: 2bcfda40750bd42d98dde8c82ee135a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: utensilAIS
+    second: {fileID: 2100000, guid: e597f20db9830458f91c3247ea77783c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallAIS
+    second: {fileID: 2100000, guid: 09f2c73dc63b94a6ca17d27f259c4e20, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-texture
+    second: {fileID: 2800000, guid: 6c44dd16bb718404f82f4f5249479267, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-textureBUMP
+    second: {fileID: 2800000, guid: 72e5a24a1459c41df80359b4c88cf67d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: diffuse_wood_1024x1024
+    second: {fileID: 2800000, guid: e6af97deb65ae422490f59ec7dcbe24b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: medium-light-wood-texture
+    second: {fileID: 2800000, guid: c2fdcbc0321cf4cf6a9b2d8f88ba06e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oak-wood-texture
+    second: {fileID: 2800000, guid: 26083f901fd384d60a3c1fc684e3094d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pepper_shaker_colorALT
+    second: {fileID: 2800000, guid: 257a080aaaf674523935d965bdb9b68f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pictureFrameColor
+    second: {fileID: 2800000, guid: b00b2bb209dd94254b4fb49d9edab058, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plate_face
+    second: {fileID: 2800000, guid: 708b5ccee278b4904b672defd3837e2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: specular_wood_1024x1024
+    second: {fileID: 2800000, guid: c49e28147e58549e6b898d9f78bb8752, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: velvet_texture
+    second: {fileID: 2800000, guid: 3368d4741eec94eb2879249b1727fe62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_texture_dark2
+    second: {fileID: 2800000, guid: fc6dd5f45a9a043b2b518c85a55851db, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

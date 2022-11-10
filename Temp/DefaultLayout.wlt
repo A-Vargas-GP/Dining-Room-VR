@@ -400,7 +400,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/UTech/MG-Karting
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/greasy_panic/Desktop/SUMMER 2022/The Dining Room VR
+  m_LastProjectPath: /Users/greasy_panic/Desktop/FALL 2022/imm 360 demos/samples/The Dining Room VR - Downgrade
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
