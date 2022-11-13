@@ -6,7 +6,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638033914660000000
+      ticks: 638036495560000000
     m_Hash: 2915760269
   m_LockFileStatus:
     m_FilePath: /Users/greasy_panic/Desktop/FALL 2022/imm 360 demos/samples/The Dining
@@ -15,7 +15,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638033914660000000
+      ticks: 638036495560000000
     m_Hash: 39259165
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -3859,7 +3859,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: "Common utility classes for XR projects\nRefer to API documentation
     for details. Some particularly useful utilities include:\n\u25AA Geometry Utilities\n 
     \u25AA Point of closest approach\n  \u25AA Closest edge of a polygon\n  \u25AA
@@ -3871,8 +3871,22 @@ m_ResolvedPackages:
   status: 4
   errors: []
   versions:
-    all: []
-    compatible: []
+    all:
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0
+    - 2.1.0-pre.1
+    - 2.1.0
+    - 2.2.0-pre.1
+    compatible:
+    - 2.0.0-pre.3
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0
+    - 2.1.0-pre.1
+    - 2.1.0
+    - 2.2.0-pre.1
     verified: 
   dependencies:
   - name: com.unity.modules.xr
@@ -3902,11 +3916,11 @@ m_ResolvedPackages:
     isDefault: 1
     capabilities: 7
   hasRegistry: 1
-  hideInEditor: 1
+  hideInEditor: 0
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637810557940000000
   documentationUrl: 
   hasRepository: 1
   repository:
